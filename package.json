@@ -1,0 +1,33 @@
+{
+  "name": "domblrrr",
+  "version": "0.0.1",
+  "description": "Decentralized DHT RPC",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "buffer-json": "^2.0.0",
+    "express": "^4.17.1",
+    "node-uuid": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeTopia/DomBlrrr.git"
+  },
+  "keywords": [
+    "decentralized",
+    "dht",
+    "rpc"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NodeTopia/DomBlrrr/issues"
+  },
+  "homepage": "https://github.com/NodeTopia/DomBlrrr#readme"
+}
