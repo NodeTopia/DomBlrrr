@@ -12,6 +12,7 @@
     "express": "^4.17.1",
     "k-bucket": "^5.0.0",
     "last-one-wins": "^1.0.4",
+    "lru": "^3.1.0",
     "node-uuid": "^1.4.8",
     "randombytes": "^2.1.0",
     "simple-sha1": "^3.0.1"
